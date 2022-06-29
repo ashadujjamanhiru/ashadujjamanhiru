@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashadujjamanhiru
-- 👀 I’m interested in DevOps
+- 👀 I’m DevOps Engineer
 - 🌱 I’m currently learning Docker, Kubernetes and CI/CD Jenkins
 
 
